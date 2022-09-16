@@ -9,7 +9,7 @@
   <remote name="opensbi" fetch="https://github.com/riscv"/>
   <remote name="la-seL4" fetch="."/>
   <remote name="sel4proj" fetch="../sel4proj"/>
-  <remote name="origin-seL4" fetch="https://github.com/seL4"
+  <remote name="origin-seL4" fetch="https://github.com/seL4"/>
   
   <default remote="la-seL4" revision="dev"/>
   
