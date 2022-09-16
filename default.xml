@@ -11,7 +11,7 @@
   <remote name="sel4proj" fetch="../sel4proj"/>
   <remote name="origin-seL4" fetch="https://github.com/seL4"
   
-  <default remote="la-seL4"/>
+  <default remote="la-seL4" revision="dev"/>
   
   <project name="la-musllibc.git" path="projects/musllibc" upstream="dev" dest-branch="dev"/>
   <project name="nanopb" path="tools/nanopb" remote="nanopb" revision="1466e6f953835b191a7f5acf0c06c941d4cd33d9" upstream="master" dest-branch="refs/tags/0.4.3"/>
